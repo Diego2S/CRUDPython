@@ -1,4 +1,4 @@
-📚 CRUD em Python com SQLite
+📚 CRUD em Python com SQLite - RASCUNHO DE ESTUDO
 
 Este é um projeto simples de CRUD (Create, Read, Update, Delete) desenvolvido em Python, utilizando banco de dados SQLite. O objetivo é demonstrar o funcionamento básico de operações de persistência de dados em aplicações Python.
 🚀 Funcionalidades
